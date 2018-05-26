@@ -1,0 +1,6 @@
+framework module Pods_cocoapoding {
+  umbrella header "Pods-cocoapoding-umbrella.h"
+
+  export *
+  module * { export * }
+}
